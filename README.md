@@ -4,7 +4,18 @@
 
 The School Learning Modalities dataset provides estimates of school learning modality (including in-person, remote, or hybrid learning) for U.S. charter school districts for the 2021-2022 school year. The goal of this project is to gather information that how people interects with different learning modalities as well as the operating schools and students of different States of USA from [this website](https://healthdata.gov/National/School-Learning-Modalities-2021-2022/aitj-yx37).<br/>
 Later I utilized the scraped data to understand some demographics and correlations using Tableau Dashboard.
-The public dashboard is also attached [here](https://public.tableau.com/app/profile/minhaj.uddin4733/viz/DataVisualizationandAnalytics/PrimaryVisualizations#1).
+The public dashboard is also attached [here](https://public.tableau.com/app/profile/minhaj.uddin4733/viz/USASchoolLearningModalitiesDataVisualization/PrimaryVisualizations).
+
+## Tableau Dashboards
+
+1. This dashboard represents total students, total operational schools and learning modalities applied by the students of each states of USA.<br/>
+<img src = "dashboard_images\primary_viz.jpg" width="700" height="350">
+
+2. This dashboard
+<img src = "dashboard_images\selective_viz.jpg" width="700" height="350">
+<img src = "dashboard_images\calculative_viz.jpg" width="700" height="350">
+<img src = "dashboard_images\calculative_viz2.jpg" width="700" height="350">
+<img src = "dashboard_images\overview.jpg" width="700" height="350">
 
 ## Build from Sources
 
