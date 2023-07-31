@@ -1,4 +1,4 @@
-# US-School-Learning-Modalities-Project
+# US-School-Learning-Modalities-Analytics
 
 ## Problem Statement
 
