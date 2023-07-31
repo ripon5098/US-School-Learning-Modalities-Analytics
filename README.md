@@ -11,10 +11,16 @@ The public dashboard is also attached [here](https://public.tableau.com/app/prof
 1. This dashboard represents total students, total operational schools and learning modalities applied by the students of each states of USA.<br/>
 <img src = "dashboard_images\primary_viz.jpg" width="700" height="350">
 
-2. This dashboard
+2. This dashboard represents students, average operational schools of particular states of USA.<br/>
 <img src = "dashboard_images\selective_viz.jpg" width="700" height="350">
+
+3. A box plot to detect student outliers and a pie plot to highlight percentage of operational schools are attached in this dashboard.<br/>
 <img src = "dashboard_images\calculative_viz.jpg" width="700" height="350">
+
+4. Total operational schools and standard deviation of operational schools are visualized in this dashboard.<br/>
 <img src = "dashboard_images\calculative_viz2.jpg" width="700" height="350">
+
+5. A overview of all the given information in the dataset are represented as different visualization in this dashboard.<br/>
 <img src = "dashboard_images\overview.jpg" width="700" height="350">
 
 ## Build from Sources
